@@ -1,5 +1,5 @@
 .start {
-    font-family: 'Rubik';
+    font-family: 'Segoe UI';
     text-align: center;
 }
 
@@ -17,11 +17,11 @@
     border: none;
     margin-left: 20px;
     border-radius: 5px;
-    font-family: Rubik Light;
+    font-family: 'Segoe UI';
 }
 
 .othertext {
-    font-family: 'Rubik Light';
+    font-family: 'Segoe UI Light';
     margin-left: 5px;
     
 }
@@ -37,7 +37,7 @@
     animation-iteration-count: infinite;
     .text {
         color: white;
-        font-family: Rubik Light;
+        font-family: 'Segoe UI';
         font-size: smaller;
         text-align: center;
         padding-top: 3px;
@@ -54,7 +54,7 @@
     border: none;
     margin-left: 20px;
     border-radius: 5px;
-    font-family: Rubik Light;
+    font-family: 'Segoe UI';
 }
 
 
